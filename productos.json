@@ -1,0 +1,7 @@
+[
+  { "id": 1, "descripcion": "Heladera Whirlpool 270L", "precio": 2850000 },
+  { "id": 2, "descripcion": "Aire Acondicionado Split 9000 BTU", "precio": 2550000 },
+  { "id": 3, "descripcion": "Licuadora Philips 600W", "precio": 480000 },
+  { "id": 4, "descripcion": "Televisor Samsung 43\" UHD", "precio": 3200000 },
+  { "id": 5, "descripcion": "Ventilador Industrial 20\"", "precio": 650000 }
+]
